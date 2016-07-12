@@ -1,1 +1,1 @@
-# Insolex-IIP
+# IIP-Plugin
